@@ -2,4 +2,4 @@
 
 based on examples by pimoroni
 
-tick seems to be off - seconds are not clean
+tick seems to be off - seconds are off
