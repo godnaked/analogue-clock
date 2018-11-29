@@ -2,4 +2,6 @@
 
 based on examples by pimoroni
 
-tick seems to be off - seconds are off
+for unicorn hat hd
+
+wip - tick doesn't work properly and seconds are off
